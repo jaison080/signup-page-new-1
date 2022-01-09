@@ -215,4 +215,4 @@ class imgUploader {
          });
     }
 }
-const imguploader = new imgUploader();
+const imguploader = new imgUploader();z
