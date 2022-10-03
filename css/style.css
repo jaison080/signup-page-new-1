@@ -179,7 +179,7 @@ form{
     border-radius: 12px;
     outline: none;
     z-index: 1;
-    box-shadow: 0px 0px 7px black;
+    box-shadow: 0px 0px 3px black;
 }
 .form_input.invalid{
     border-color: #ff2340;
