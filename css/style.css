@@ -142,7 +142,7 @@ form{
     border-color: #fff;
 }
 .steps.active .steps_numb::after, .steps.active .steps_numb::before{
-    background: #ff2340;
+    background: #008cff;
 }
 .form_title{
     font-size: 48px;
